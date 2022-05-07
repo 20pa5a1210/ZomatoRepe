@@ -7,7 +7,7 @@ body{
     background-color: #fbfbfb;
 }
 .back-img{
-    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707), url("./images/shutterstock_348320018@2x.png");
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707), url("./shutterstock_348320018@2x.png");
     background-attachment: fixed;
     background-size: cover;
     height: 460px;
